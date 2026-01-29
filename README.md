@@ -28,7 +28,7 @@ ImageHub is a powerful, modern desktop application for bulk downloading high-qua
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/imagehub.git
+git clone https://github.com/slnquangtran/ImageHub.git
 ```
 2. Install dependencies:
 ```bash
