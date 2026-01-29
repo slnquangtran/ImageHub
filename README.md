@@ -6,7 +6,7 @@ ImageHub is a powerful, modern desktop application for bulk downloading high-qua
 ![GUI](https://img.shields.io/badge/GUI-CustomTkinter-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## ✨ Features
+## Features
 
 - **Modern Dark UI**: Sleek interface with orange accent colors and smooth animations
 - **Smart Image Download**: Automatically fetches from multiple sources (Bing & DuckDuckGo)
@@ -17,7 +17,7 @@ ImageHub is a powerful, modern desktop application for bulk downloading high-qua
 - **Error Recovery**: Fallback mechanisms and graceful error handling
 - **Keyboard Support**: Start downloads with Enter key
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.7+
